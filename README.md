@@ -17,7 +17,7 @@ The directories are organised by sessions, with a separate directory for the pro
 - [Course contents](https://github.com/jonathon-langford/aims-inference-2026/tree/main/2_inference_with_classifiers)
 - This session...
 
-### Session 3: ADD LLOYD TITLE
+### Session 3: ADD AUSTIN TITLE
 - Tuesday 17th February: 10:00 - 11:00
 - This session...
 
@@ -25,7 +25,7 @@ The directories are organised by sessions, with a separate directory for the pro
 - Wednesday 18th February: 9:00 - 10:00
 - This session...
 
-### Session 5: ADD AUSTIN TITLE
+### Session 5: Bayesian Model Selection
 - Wednesday 18th February: 10:00 - 11:00
 - This session...
 
