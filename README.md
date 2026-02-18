@@ -20,14 +20,17 @@ We will add the project material on Wednesday 18th February after the lectures h
 ### Session 3: Bayesian kinetic modeling with hybrid models
 - Tuesday 17th February: 14:00 - 15:00
 - Course leader: Laura Helleckes
+- [Course contents](https://github.com/jonathon-langford/aims-inference-2026/tree/main/3-Bayesian-models-for-kinetics)
 
 ### Session 4: Bayesian optimisation for chemistry 
 - Tuesday 17th February: 15:00 - 16:00
 - Course leader: Austin Mroz
+- [Course contents](https://github.com/austin-mroz/4-BO-for-chemistry/tree/39a7ab79243013a21ad8efcc9046e605e15f24e0)
 
 ### Session 5: Bayesian model selection
 - Wednesday 18th February: 14:00 - 15:00
 - Course leader: Lloyd Fung
+- [Course contents](https://github.com/jonathon-langford/aims-inference-2026/tree/main/5_Bayesian_Model_Selection)
 
 ### Project work
 - Wednesday 18th February: 15:00 - 16:00
